@@ -146,7 +146,6 @@ PRODUCT_PACKAGES += \
     libgnss \
     libgnsspps \
     gps.msm8953 \
-    libshims_get_process_name \
     android.hardware.gnss@1.0-impl-qti \
     android.hardware.gnss@1.0-service-qti
 
